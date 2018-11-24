@@ -1,0 +1,15 @@
+;######  OOEL NOTES  ######
+;##########################
+
+;#####  MAGNET NOTES
+
+	;##  Temperature
+	
+		80 degrees c start to demagnetize
+		310 degrees c fully demagnetize
+		
+		Temperature ratings explained
+		https://e-magnetsuk.com/neodymium_magnets/temperature_ratings.aspx
+		
+		Solder 315c ish
+		
