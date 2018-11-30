@@ -1,7 +1,29 @@
 ;######  OOEL NOTES  ######
 ;##########################
 
-;#####  MAGNET NOTES
+;#######  PARTS NEEDED
+
+	Resistors		560 x 4
+					1k
+					2.2k
+					10k
+					100k
+					1M
+	
+	Capacitors		100 nf
+					1 uf
+					10uf
+					100uf
+					
+	Potentiometer	10k Ohm
+					1M Ohm
+	
+	
+	LEDs			4x
+
+	
+	
+;#######  MAGNET NOTES
 
 	;##  Temperature
 	
