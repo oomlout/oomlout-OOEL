@@ -1,6 +1,9 @@
 ;######  OOEL NOTES  ######
 ;##########################
 
+;####### Reference
+https://hackaday.com/2018/12/14/retrotechtacular-remembering-radio-shack-p-box-kits/
+
 ;#######  PARTS NEEDED
 
 	Resistors		560 x 4
